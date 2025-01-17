@@ -10,4 +10,4 @@ Support Engineer @ HCLTech
 - 😄 Pronouns: Techie
 - ⚡ Passion: Photography.
 - ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC5ihGlKM7Ho3KuvXcI0F1Gw)
-- ![YouTube Channel Subscribers] (https://img.shields.io/youtube/channel/subscribers/UC5ihGlKM7Ho3KuvXcI0F1Gw)
+- ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC5ihGlKM7Ho3KuvXcI0F1Gw)
