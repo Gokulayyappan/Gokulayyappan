@@ -13,3 +13,5 @@ Support Engineer @ HCLTech
 
 ### IDE and Tools I Use
 <img width="48" height="48" src="https://img.icons8.com/color/48/jenkins.png" alt="jenkins"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/grafana.png" alt="grafana"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/google-cloud.png" alt="google-cloud"/><img width="48" height="48" src="https://img.icons8.com/color/48/adobe-photoshop.png" alt="adobe-photoshop"/>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Gokul?theme=catppuccinMocha&font=Marcellus&ext=contest)
