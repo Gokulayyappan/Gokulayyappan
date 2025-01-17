@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me gokul
 
 Support Engineer @ HCLTech
-- 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
+- 🔭 Here's my [portfolio](https://github.com/Gokulayyappan)                                                 
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on ML/AI
 - 🤔 I’m looking for help with Placements in FAANG
