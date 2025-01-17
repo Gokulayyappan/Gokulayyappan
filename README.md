@@ -9,6 +9,5 @@ Support Engineer @ HCLTech
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in//gokul-ayyappan-909b04202/)
 - 😄 Pronouns: Techie
 - ⚡ Passion: Photography.
-- ![YouTube Channel Views](https://img.shields.io/youtube/channel/subscribers/UC5ihGlKM7Ho3KuvXcI0F1Gw
-))
-- ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCVXHYmFar7yArWvkcjxWXuQ)
+- ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC5ihGlKM7Ho3KuvXcI0F1Gw)
+- ![YouTube Channel Subscribers] (https://img.shields.io/youtube/channel/subscribers/UC5ihGlKM7Ho3KuvXcI0F1Gw)
